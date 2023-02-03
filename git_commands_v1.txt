@@ -7,3 +7,4 @@
 7. git checkout <branch-name>
 8. git branch -d <branch-name>
 9. git push --set-upstream orgin <branch-name>
+10. git init
